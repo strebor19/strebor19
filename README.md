@@ -1,24 +1,12 @@
-### Hello there 👋
+## **Hello there** 👋
+###You've reached my GitHub profile 💻
 
-<!--
-**strebor19/strebor19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alejandro.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-####You've reached my GitHub profile 🗄
-
-My name is Alejandro. 
 I'm currently learning web development👨🏻‍💻, 
+
 I'm open to do any work that helps me grow🌱.
 
 You can reach me at my email: arobertamaro@gmail.com
+
 Have a nice day ✌🏻😁
