@@ -1,5 +1,5 @@
 # **Hello there** 👋
-##You've reached my GitHub profile 💻
+## You've reached my GitHub profile 💻
 
 My name is Alejandro.
 
